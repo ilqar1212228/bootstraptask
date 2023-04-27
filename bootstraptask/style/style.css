@@ -1,0 +1,43 @@
+.navbar {
+  margin-top: 15px;
+}
+.navbar h1 {
+  width: 15px;
+  padding-right: 20px;
+  color: rgb(49, 124, 223);
+}
+.navbar .container-fluid {
+  transform: translate(5px);
+}
+.navbar button {
+  border: none;
+}
+
+.about-write {
+  transform: translateY(100%);
+}
+.about-write .header {
+  color: blueviolet;
+  transform: translateX(16%);
+  border-right: px solid blue;
+}
+.about-write #header2 {
+  color: rgb(49, 124, 223);
+  border-right: 3px solid blue;
+}
+.about-write #text {
+  color: blueviolet;
+}
+
+#cards {
+  transform: translateY(550px);
+  margin-right: 50px;
+}
+#cards .header3 {
+  text-align: center;
+  transform: translateX(10px);
+  color: blueviolet;
+}
+#cards .header3 .cards-text {
+  color: gray;
+}/*# sourceMappingURL=style.css.map */
